@@ -1,0 +1,4 @@
+__pycache__
+csv
+failed_urls.csv
+batch_emails.csv
